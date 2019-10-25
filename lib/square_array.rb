@@ -20,6 +20,6 @@ while array[counter] do
   new_array << array[counter] ** 2
   
 end
-#return the new array
+# return the new array
 new_array
 end 
