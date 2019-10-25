@@ -21,5 +21,5 @@ while array[counter] do
   
 end
 #return the new array
-new_array
+new_numbers
 end 
