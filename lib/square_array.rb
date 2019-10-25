@@ -17,7 +17,7 @@ def square_array(array, new_array)
 while array[counter] do
   counter += 1
   #counter = counter + 1
-  new_numbers << array[Math.sqrt(counter)]
+  new_numbers << array[counter] ** 2
   
 end
 #return the new array
