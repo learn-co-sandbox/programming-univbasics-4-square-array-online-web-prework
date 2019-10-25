@@ -1,16 +1,3 @@
-# while as the Iterator!!!
-# take an array of numbers
-# and square each number 
-# return a ***new*** array with squared numbers 
-
-
-#While(conditional) iterator 
- #loop
- #while <<<condition>>> do 
- ###execution code 
- # end 
-
-
 def square_array(array)
   new_array = []
   counter = 0
