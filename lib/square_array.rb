@@ -11,7 +11,7 @@
  # end 
 
 
-def square_array(array)
+def square_array(array, new_array)
   new_numbers = []
   counter = 0
 while array[counter] do
